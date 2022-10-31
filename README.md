@@ -1,7 +1,7 @@
 - Hi, I’m Abhijot
 - I'm JAVA Developer and Automation Tester
-- Enthusiastic for WEB3.0 
-- Intrests  #Coding   #Lifting  #3D-Animation
+- Enthusiastic for new tech and science discoveries
+- Like  #Coding   #Lifting  #3D-Animation
 - Reach Me at: www.linkedin.com/in/abhijot04
 
 <!---
