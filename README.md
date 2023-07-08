@@ -10,7 +10,11 @@
 
 - 🔭Spring CRUD app [Client Relationalship Managment System](https://github.com/Ninja-Cyborg/spring-security-crud-webapp)
 
-- 👨‍💻 All of my projects repos are available on git [https://github.com/Ninja-Cyborg?tab=repositories](https://github.com/Ninja-Cyborg?tab=repositories)
+-  🔭Rest Assured Testing [Pet Store API Automation](https://github.com/Ninja-Cyborg/PetStore_Api_Automation)
+
+-  🔭JMeter Testing [Reqres API Load Testing](https://github.com/Ninja-Cyborg/JMeter-Load-Testing)
+
+- 👨‍💻 All of my projects repos are available on git [Git Repo](https://github.com/Ninja-Cyborg?tab=repositories)
 
 - 💬 Ask me about **java, springboot, selenium**
 
