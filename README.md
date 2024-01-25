@@ -1,26 +1,30 @@
 
 <h1 align="center">Hi 👋, I'm Abhijot</h1>
-<h3 align="center">A passionate Back-end developer and Automation Tester</h3>
+<h3 align="center"> Passionate Back-end Java developer and meticulous Tester dedicated to crafting robust solutions.</h3>
 
-- 🔭 Selenium Automation Testing [E-Commerce Webapp Testing](https://github.com/Ninja-Cyborg/SeleniumAutomationTesting)
+- 🔭 KaleidoHub [Full Stack Application](https://github.com/Ninja-Cyborg/spring_react_application/)
 
-- 🔭Springsecurity app [Project managment System](https://github.com/Ninja-Cyborg/projectmanagementspringbootapp)
+- 🔭 Automation Testing [HRM Web Application Testing](https://github.com/Ninja-Cyborg/HRM-WebSite-Test-Automation)
 
 - 🔭JavaFx application [Library Managment System](https://github.com/Ninja-Cyborg/LibraryManagmentSystem)
+
+- 🔭 Selenium Automation Testing [E-Commerce Webapp Testing](https://github.com/Ninja-Cyborg/SeleniumAutomationTesting)
 
 - 🔭Spring CRUD app [Client Relationalship Managment System](https://github.com/Ninja-Cyborg/spring-security-crud-webapp)
 
 -  🔭Rest Assured Testing [Pet Store API Automation](https://github.com/Ninja-Cyborg/PetStore_Api_Automation)
 
+-  🔭Springsecurity app [Project managment System](https://github.com/Ninja-Cyborg/projectmanagementspringbootapp)
+
 -  🔭JMeter Testing [Reqres API Load Testing](https://github.com/Ninja-Cyborg/JMeter-Load-Testing)
 
 - 👨‍💻 All of my projects repos are available on git [Git Repo](https://github.com/Ninja-Cyborg?tab=repositories)
 
-- 💬 Ask me about **java, springboot, selenium**
+- 💬 Ask me about **java, springboot, selenium, react, database**
 
 - 📫 How to reach me **www.linkedin.com/in/abhijot04**
 
-- ⚡ Fun fact **I love 3D Animation and Weight Training**
+- ⚡ Fun fact **I love 3D Animation and Strength Training**
 
 <h3 align="left">Connect with me: https://github.com/Ninja-Cyborg</h3>
 <p align="left">
